@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="AD_UNIT_ID">ca-app-pub-xxx/xxx</string>
+    <string name="AD_UNIT_INTERSTITIAL_ID">ca-app-pub-xxx/xxx</string>
+
+    
+</resources>
