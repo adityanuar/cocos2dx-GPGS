@@ -49,6 +49,6 @@ preloadInterstitialAd();
 
 showInterstitialAd();
 
-Just merge necessary codes in this modules on your projects to use it.
-
+Just merge necessary codes in this modules on your projects to use it. Don't forget to replace xxx to appropriate value on your projects.
+ 
 Facebook and google iap billing are planned to be added in the future. Any contributions are welcome :)
