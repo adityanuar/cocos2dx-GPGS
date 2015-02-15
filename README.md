@@ -6,26 +6,47 @@ This module was derived from the work from carlospinan (https://github.com/cpina
 It includes several methods so far from google play service such as:
 
 isSignedIn();
+
 signIn();
+
 signOut();
+
 ========= Leaderboard =================
+
 submitScore(const char* leaderboardID, long score);
+
 showLeaderboards();
+
 showLeaderboard(const char* leaderboardID);
+
 loadScoreOfLeaderBoard(const char* leaderboardID);
+
 getRawScore();
+
 ========= Achievements ================
+
 unlockAchievement(const char* achievementID);
+
 incrementAchievement(const char* achievementID, int numSteps);
+
 showAchievements();
+
 ========= Analytic ====================
+
 setScreenName(const char* name);
+
 setEvent(const char* categoryId, const char* actionId, const char* labelId);
+
 ========= Admob =======================
+
 initAd();
+
 showAd();
+
 hideAd();
+
 preloadInterstitialAd();
+
 showInterstitialAd();
 
 Just merge necessary codes in this modules on your projects to use it.
