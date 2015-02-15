@@ -28,4 +28,6 @@ hideAd();
 preloadInterstitialAd();
 showInterstitialAd();
 
+Just merge necessary codes in this modules on your projects to use it.
+
 Facebook and google iap billing are planned to be added in the future. Any contributions are welcome :)
